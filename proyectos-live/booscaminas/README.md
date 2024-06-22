@@ -4,12 +4,12 @@ Hoy es Halloween (o no si venís del futuro) pero las calabazas están de promoc
 
 ## Requerimientos
 
-- [ ] Debemos ver una grilla de 10x10 casillas donde podemos clickear cada una de ellas.
-- [ ] Al clickear una casilla deberíamos ver en número, cuantas calabazas (bombas) hay alrededor de esa casilla.
-- [ ] Si clickeamos una casilla que tiene una calabaza el juego debería terminar.
+- [ X ] Debemos ver una grilla de 10x10 casillas donde podemos clickear cada una de ellas.
+- [ X ] Al clickear una casilla deberíamos ver en número, cuantas calabazas (bombas) hay alrededor de esa casilla.
+- [ X ] Si clickeamos una casilla que tiene una calabaza el juego debería terminar.
 - [ ] Si clickeamos todas las casillas que no tienen calabazas, deberíamos ver un mensaje de victoria.
-- [ ] Al perder debemos emitir un sonido de susto (en la carpeta `public` hay un `.mp3`).
-- [ ] Agregar un botón para reiniciar el juego.
+- [ X ] Al perder debemos emitir un sonido de susto (en la carpeta `public` hay un `.mp3`).
+- [ X ] Agregar un botón para reiniciar el juego.
 
 ## Extras
 
